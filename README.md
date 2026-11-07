@@ -27,7 +27,7 @@ TK SKU 灰色
 ```
 SKILL.md            入口：指令识别、流程、硬性规则
 platforms/          平台规格
-templates/          三套模板
+templates/          四套模板
 shared/             尺码图、模特、文案、提示词片段、自检清单
 ```
 
