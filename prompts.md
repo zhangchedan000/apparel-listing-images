@@ -8,6 +8,9 @@
 **第 2 张起**（附主参考图）：
 `The attached image is the master reference. Keep the garment, colors, details and style exactly the same; only change what this image needs (angle, crop or layout).`
 
+**加附细节图时**（做某个部位）：
+`The second attached photo is a close-up of the <part>. Use it only to get this part exactly right; keep everything else, the style and the composition based on the master reference.`
+
 **第 2 张**（编辑第 1 张）：`Edit the attached image. Keep the garment, position, size and angle unchanged. Only add / remove these elements: …`
 
 **风格**
