@@ -8,7 +8,7 @@
 > A men's navy blue hooded jacket. Matte navy outer fabric with evenly spaced short diagonal embossed dashes all over (NOT chevron or V-shaped quilting seams). Cream sherpa lining. Black front zipper, navy drawstrings with silver metal tips, one vertical black zip pocket on each side, navy ribbed cuffs and hem. No logo.
 
 第 1 张附原始上传图时加：
-> Use the attached photo ONLY as a reference for color, fabric, construction details and hardware. Do not copy its camera angle, flat-lay or display style; present the garment in the style described below.
+> Reproduce the garment in the attached photo exactly: same cut, color blocking and contrast panels, trims, pocket shape and position, zippers, zipper tapes and their labels, drawstrings, hardware and ribbing. Do not add, remove, simplify or redesign anything. Only change the background to pure white, even out the lighting, and apply the presentation style described below. If the style would change the garment, keep the garment exact.
 
 第 3 张起附主参考图时加：
 > The attached image is the master reference. Keep the garment's appearance, colors, details and presentation style exactly the same. Only change what this image requires (view angle, crop or layout).
