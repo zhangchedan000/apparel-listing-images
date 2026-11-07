@@ -6,6 +6,16 @@
 ## 商品锁定
 > Use the attached product photo as the exact reference. Keep the garment identical: same color, fabric texture, stitching, zipper, pockets, drawstrings, cuffs and hem. Do not add, remove or redesign any part of the garment. Do not add logos or graphics that are not on the original.
 
+## 视角锁定（背面、侧面、细节等非正面图必须加）
+参考图会把构图拉回正面，所以非正面图要明确写清镜头方向，并说明参考图的用途：
+> Use the attached photo ONLY as a reference for color, fabric texture and construction details. Do NOT copy its front-facing composition.
+
+背面：
+> Rear view, the camera is directly behind the garment. Only the back panel, the back of the hood, the backs of the sleeves and the ribbed back hem are visible. The front zipper, drawstrings, pockets and inner lining are NOT visible.
+
+侧面：
+> Side profile view at about 90 degrees (or 45 degrees for 3/4 view), showing the thickness and the sleeve and hood silhouette.
+
 ## 真实感约束
 > Photorealistic commercial product photography shot on a professional DSLR camera, true-to-life colors, natural fabric texture with realistic wrinkles and thickness. No CGI or 3D render look, no plastic or over-smoothed appearance.
 
