@@ -28,6 +28,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 | 3D立体展示 / 3D立体展示模版 / 3D款 | `templates/3d-display.md` |
 | 真人模特展示 / 模特款 | `templates/model-showcase.md` |
 | 加字 | 细节图加英文短标签（见 `shared/copy-rules.md`） |
+| 对比图 | 加一张"普通款 vs 我们"对比图（见 `shared/differentiation.md`），亚马逊默认不做 |
 | 组合装 + 颜色（如"组合装 黑+灰+蓝"） | 按 `shared/combo-pack.md` 改前两张 |
 | `TK SKU <颜色>` | 只出 1 张 SKU 预览图（见第四节） |
 
@@ -39,6 +40,8 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 
 **第 0 步：收集材料**
 - 商品图（必须）；细节实拍图（可选，有则更准）；多颜色时每个颜色一张
+- 差异化资料（可选，强烈建议）：商品参数文字、细节 / 剖面图、竞品截图、竞品差评
+- 模特尺码 / 版型信息（可选）：模特身高体重和所穿尺码，或版型说明
 - 真实尺码数据（做尺码图时才需要，可以最后再给）
 - 没有商品图 → 停下来要图，不开工
 - **缺某个角度的参考图（如背面）**：先问用户要；同时给出备选，不卡住流程：
@@ -53,7 +56,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 - 图里看不清的部位标"未知"，**之后不准画、不准猜**
 
 **第 2 步：卖点分析（先分析，再套模板）**
-严格按 `shared/selling-points.md` 的方法：
+先按 `shared/differentiation.md` 从用户提供的资料里提炼差异化（只用用户给的资料，没给就跳过并提示），再严格按 `shared/selling-points.md` 的方法：
 1. 定**品类核心需求**（如棉衣 → 保暖 + 舒适；所有衣服 → 舒适）
 2. 找**买家顾虑**
 3. **FAB 转化**：结构是证据，图上写的是买家好处
@@ -143,6 +146,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 - `templates/3d-display.md` — 3D立体展示模版
 - `templates/model-showcase.md` — 真人模特展示
 - `shared/selling-points.md` — 卖点提炼方法
+- `shared/differentiation.md` — 差异化提炼、证据图、对比图
 - `shared/combo-pack.md` — 组合装（多件装）规则
 - `shared/size-chart.md` — 尺码图规则（所有模板通用）
 - `shared/model-rules.md` — 模特规则

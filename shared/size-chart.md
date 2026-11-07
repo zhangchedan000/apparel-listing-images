@@ -34,6 +34,12 @@
   1. Manual measurement may vary by 0.4–1.2 in (1–3 cm).
   2. Please compare with your usual garment for best fit.
 
+## 版型信息（可选，解决尺码焦虑）
+- 用户提供了才加，没给不加、不编：
+  - 模特信息：如 `Model: 6'0" / 175 lbs, wearing L`
+  - 版型提示：如 `Relaxed Fit · Size up for layering`
+- 放在表格上方或底部备注处，字号小于表格数字
+
 ## 准确性
 - 出图后**逐格核对**每个数字和尺码顺序，错一个就重做
 - 用 Agent（Hermes / 小龙虾）时优先：AI 只出商品图，表格和文字用脚本排版，保证数字准确
