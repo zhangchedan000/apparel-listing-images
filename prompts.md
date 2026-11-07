@@ -34,7 +34,7 @@
 
 隐形模特（①④ 和尺码底图）加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
 
-3D 立体（②）加：`3D ghost mannequin product photo, straight-on front view. The garment is filled out like it is worn by an invisible body: smooth rounded volume, the waistband / neckline edge curves slightly to show depth, sleeve or leg openings look like open ovals, darker soft shading toward both side edges and lighter in the center. Clean and smooth, no flat-lay wrinkles. Not a flat lay.`
+3D 立体（②）加：`3D ghost mannequin photo, front view, the garment looks full and rounded as if worn by an invisible body. Not a flat lay.`
 
 模特（③ 和真人上身正面）加：`Natural realistic skin texture, normal proportions, correct hands. The garment fills out on the body with real volume and natural tension folds; relaxed stance with one leg slightly forward; directional side light shows the shape.` 第一张模特图之后再加上回复里写好的英文模特描述
 
