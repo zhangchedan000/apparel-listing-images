@@ -1,4 +1,4 @@
-# 提示词片段与自检
+# 提示词片段
 
 ## 一、提示词组成
 每条生图提示词 = 本张画面 + 【商品描述】+ 【视角】+ 【真实感】+ 【单图】+ 【规格】
@@ -34,16 +34,3 @@
 > Highest available resolution and quality, target 1600×2133 px or larger, vertical 3:4.
 
 纯白正面图加（**带元素的那张不加这一句**）：`Pure white background (RGB 255, 255, 255). No text, logo, watermark, badges, graphics or props. The garment is fully visible and fills about 85% of the frame.`
-
-## 二、自检
-**严重问题 → 重做（同一张最多 2 次）**
-- 拼图、多格、分屏
-- 商品颜色、结构、图案与档案不符（如压纹画成 V 形、口袋变了）
-- 出现编造的结构或未确认的说法（Lightweight、Waterproof 等）、编造的布标字样
-- 视角错（正面图斜着、背面图画成正面）
-- 文字拼写错误；标明无字的图或纯白图出现任何文字
-- 出现网络图片或其他品牌商品
-- 尺码图数字与用户数据不符
-
-**小问题 → 照常通过，在自检那句里提一下**
-- 卖点图里多了描述部位的小标签、元素位置略偏、留白不完美等

@@ -28,5 +28,5 @@ platforms.md        平台规格、加元素规则
 templates.md        四套模板
 selling-points.md   卖点、差异化、文案
 extras.md           尺码图、组合装、多颜色 / SKU、模特
-prompts.md          英文提示词片段、自检
+prompts.md          英文提示词片段
 ```
