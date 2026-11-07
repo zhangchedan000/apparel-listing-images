@@ -32,7 +32,7 @@
 > One single image with one unified layout. Do not create multiple separate images, grids or a collage of different photos.
 
 ## 规格
-> Vertical 3:4 aspect ratio. Pure white background (RGB 255, 255, 255).（背景按模板和平台调整）
+> Generate at the highest available resolution and highest quality setting, target 1600×2133 px or larger. Vertical 3:4 aspect ratio. Pure white background (RGB 255, 255, 255).（背景按模板和平台调整）
 
 ## 主图额外（亚马逊 / TK 纯白主图）
 > No text, no logo, no watermark, no badges, no graphics, no props. The product fills about 85% of the frame and is fully visible, not cropped.
