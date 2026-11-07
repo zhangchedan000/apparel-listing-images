@@ -36,7 +36,7 @@
 
 3D 立体（②）加：`3D ghost mannequin photo, front view, the garment looks full and rounded as if worn by an invisible body. Not a flat lay.`
 
-模特（③ 和真人上身正面）加：`Natural realistic skin texture, normal proportions, correct hands. The garment fills out on the body with real volume and natural tension folds; relaxed stance with one leg slightly forward; directional side light shows the shape.` 第一张模特图之后再加上回复里写好的英文模特描述
+模特（③ 和真人上身正面）加：`A real model actually wearing the garment, it fits and drapes naturally on the body like a real fashion photo, not pasted on.` 第一张模特图之后再加上回复里写好的英文模特描述
 
 **【单图】**
 > A single photograph, one frame only. No grid, no collage, no split screen, no multiple panels, no borders.
