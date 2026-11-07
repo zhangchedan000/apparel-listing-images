@@ -11,7 +11,7 @@
 **加附细节图时**（做某个部位）：
 `The second attached photo is a close-up of the <part>. Use it only to get this part exactly right; keep everything else, the style and the composition based on the master reference.`
 
-**第 2 张**（编辑第 1 张）：`Edit the attached image. Keep the garment, position, size and angle unchanged. Only add / remove these elements: …`
+**第 2 张**（编辑第 1 张）：`Edit the attached image. Keep the garment, position, size and angle unchanged. Only add these selling-point elements: …`
 
 **风格**
 - 白底隐形模特：`Invisible ghost mannequin product photo, pure white background.`
