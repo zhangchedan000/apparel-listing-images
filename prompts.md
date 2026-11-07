@@ -17,7 +17,7 @@
 > Keep the original brightness and contrast so the fabric texture, seams and folds stay clearly visible; avoid crushed blacks.
 
 **【视角】**
-- 正面：`Straight-on front view, the camera faces the garment directly, symmetrical left to right.`（② 3D 立体的正面图不用这句，改用下方 3D 那句）
+- 正面：`Straight-on front view, the camera faces the garment directly, symmetrical left to right.`
 - 背面：`Rear view, the camera is directly behind the garment. Only the back of the garment is visible: <按档案填实际有的背面结构，如 back panel / back of the hood / backs of the sleeves / ribbed hem>. Front-only details such as <按档案填：zipper / drawstrings / front pockets / lining> are NOT visible.`
 - 侧面图：`Side profile view at 90 degrees`；3/4 图：`Three-quarter view at 45 degrees`；再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
 - 括号里只填档案里真实存在的结构，不存在的不写
@@ -34,7 +34,7 @@
 
 隐形模特（①④ 和尺码底图）加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
 
-3D 立体（②）加：`3D ghost mannequin photo, shot from slightly above and turned about 15 degrees so the inside of the waistband or neckline is visible. The garment is fully filled out with round volume as if worn by an invisible body. Directional side light gives clear highlights and shadows. Not a flat lay, not a flat front cutout.`
+3D 立体（②）加：`3D ghost mannequin product photo, straight-on front view. The garment is filled out like it is worn by an invisible body: smooth rounded volume, the waistband / neckline edge curves slightly to show depth, sleeve or leg openings look like open ovals, darker soft shading toward both side edges and lighter in the center. Clean and smooth, no flat-lay wrinkles. Not a flat lay.`
 
 模特（③ 和真人上身正面）加：`Natural realistic skin texture, normal proportions, correct hands. The garment fills out on the body with real volume and natural tension folds; relaxed stance with one leg slightly forward; directional side light shows the shape.` 第一张模特图之后再加上回复里写好的英文模特描述
 
