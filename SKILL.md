@@ -28,7 +28,6 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 | 3D立体展示 / 3D立体展示模版 / 3D款 | `templates/3d-display.md` |
 | 真人模特展示 / 模特款 | `templates/model-showcase.md` |
 | 加字 | 细节图加英文短标签（见 `shared/copy-rules.md`） |
-| 对比图 | TK：加一张"普通款 vs 我们"对比图；亚马逊：改做结构分层图或数据证据图（见 `shared/differentiation.md`） |
 | 组合装 + 颜色（如"组合装 黑+灰+蓝"） | 按 `shared/combo-pack.md` 改前两张 |
 | `TK SKU <颜色>` | 只出 1 张 SKU 预览图（见第四节） |
 
@@ -146,7 +145,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 - `templates/3d-display.md` — 3D立体展示模版
 - `templates/model-showcase.md` — 真人模特展示
 - `shared/selling-points.md` — 卖点提炼方法
-- `shared/differentiation.md` — 差异化提炼、证据图、对比图
+- `shared/differentiation.md` — 差异化提炼（证据图 / 对比图格式暂不用于现有三套模板，待单独模板测试）
 - `shared/combo-pack.md` — 组合装（多件装）规则
 - `shared/size-chart.md` — 尺码图规则（所有模板通用）
 - `shared/model-rules.md` — 模特规则
