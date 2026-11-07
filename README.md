@@ -17,7 +17,8 @@ TK 9 张（第 1 张加元素、第 2 张纯白，尺码图第 9 张）；亚马
 
 ## 文件
 ```
-SKILL.md            角色、硬规则、流程
+SKILL.md            角色、硬规则、持续学习、流程
+lessons.md          经验库（开工前必读，做完一套追加新经验）
 templates.md        四套模板
 platforms.md        平台规格、加元素图
 selling-points.md   卖点、差异化、措辞
