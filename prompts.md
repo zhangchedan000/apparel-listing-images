@@ -19,7 +19,7 @@
 **【视角】**
 - 正面：`Straight-on front view, the camera faces the garment directly, symmetrical left to right.`
 - 背面：`Rear view, the camera is directly behind the garment. Only the back of the garment is visible: <按档案填实际有的背面结构，如 back panel / back of the hood / backs of the sleeves / ribbed hem>. Front-only details such as <按档案填：zipper / drawstrings / front pockets / lining> are NOT visible.`
-- 侧面图：`Side profile view at 90 degrees`；3/4 图：`Three-quarter view at 45 degrees`；再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
+- 3/4 图：`Three-quarter view at 45 degrees`；再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
 - 括号里只填档案里真实存在的结构，不存在的不写
 - 第 2 张，纯白在前时（亚马逊、TK+合规）编辑第 1 张加元素：`Edit the attached image. Keep the garment, its position, size, angle and the white background exactly unchanged. Only add the following elements in the empty corners: …`
 - 编辑实拍图（背面等）：`Edit the attached photo. Keep the garment's shape, angle, fabric texture and every detail exactly unchanged. Only replace the background with pure white (#FFFFFF), even out the lighting to soft studio light, and output a vertical 3:4 image.`
