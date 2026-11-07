@@ -3,7 +3,7 @@
 每条生图提示词 = 本张画面 + 英文商品描述 + 下面需要的句子，用通顺的英文写。
 
 **第 1 张**（附用户参考图）：
-`Use the attached photo as the product reference and create this image in the style described below. Keep the product design exactly the same.`
+`Use the attached photo as the product reference and create this image in the style described below. Keep the product design exactly the same, but do not copy the photo's flat shape, wrinkles or angle.`
 
 **第 2 张起**（附主参考图）：
 `The attached image is the master reference. Keep the garment, colors, details and style exactly the same; only change what this image needs (angle, crop or layout).`

@@ -30,7 +30,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
    - 合并：<原有那条> → <补充后>
    - 无新增：…
    ```
-   用户确认后：能写 GitHub 的环境（已连接 GitHub 的 ChatGPT、Hermes、OpenClaw），把确认的经验追加到仓库 `zhangchedan000/apparel-listing-images` 的 `lessons.md` 末尾，提交到 main，提交说明写 `lessons: <商品> <模板>`；不能写的环境，请用户把总结交给维护者
+   用户确认后：能写 GitHub 的环境（已连接 GitHub 的 ChatGPT、Hermes、OpenClaw），把确认的经验按下面的增量规则更新到仓库 `zhangchedan000/apparel-listing-images` 的 `lessons.md`，提交到 main，提交说明写 `lessons: <商品> <模板>`；不能写的环境，请用户把总结交给维护者
    - **增量更新**：先读最新的 `lessons.md`，逐条对比
      - 已有的经验 → 不重复写
      - 对已有经验的补充 → 合并进那一条，不另起一条
