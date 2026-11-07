@@ -21,5 +21,5 @@
 ## 规格
 > Vertical 3:4 aspect ratio. Pure white background (RGB 255, 255, 255).（背景按模板和平台调整）
 
-## 主图额外（亚马逊 / TK 合规模式）
+## 主图额外（亚马逊 / TK 纯白主图）
 > No text, no logo, no watermark, no badges, no graphics, no props. The product fills about 85% of the frame and is fully visible, not cropped.
