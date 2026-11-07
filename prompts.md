@@ -15,7 +15,8 @@
 - 背面：`Rear view, the camera is directly behind the garment. Only the back of the garment is visible: <按档案填实际有的背面结构，如 back panel / back of the hood / backs of the sleeves / ribbed hem>. Front-only details such as <按档案填：zipper / drawstrings / front pockets / lining> are NOT visible.`
 - 侧面 / 3/4：`Side profile view at 90 degrees` / `Three-quarter view at 45 degrees`，再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
 - 括号里只填档案里真实存在的结构，不存在的不写
-- 加元素（编辑纯白图）：`Edit the attached image. Keep the garment, its position, size and angle exactly unchanged. Only add the following elements in the empty corners: …`
+- 亚马逊第 2 张（编辑第 1 张加元素）：`Edit the attached image. Keep the garment, its position, size, angle and the white background exactly unchanged. Only add the following elements in the empty corners: …`
+- TK 第 2 张（编辑第 1 张去元素）：`Edit the attached image. Remove all added graphics, icons, circles and text. Keep the garment, its position, size and angle exactly unchanged, on a pure white background.`
 
 **【真实感】**
 > Photorealistic commercial product photography shot on a professional DSLR camera, true-to-life colors, natural fabric texture with realistic wrinkles and thickness. No CGI or 3D render look, no plastic or over-smoothed appearance.
@@ -32,7 +33,7 @@
 **【规格】**
 > Highest available resolution and quality, target 1600×2133 px or larger, vertical 3:4.
 
-纯白正面图加（**加元素图不加这一句**）：`Pure white background (RGB 255, 255, 255). No text, logo, watermark, badges, graphics or props. The garment is fully visible and fills about 85% of the frame.`
+纯白正面图加（**带元素的那张不加这一句**）：`Pure white background (RGB 255, 255, 255). No text, logo, watermark, badges, graphics or props. The garment is fully visible and fills about 85% of the frame.`
 
 ## 二、自检
 **严重问题 → 重做（同一张最多 2 次）**
