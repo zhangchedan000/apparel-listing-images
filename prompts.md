@@ -13,18 +13,21 @@
 **【视角】**
 - 正面：`Straight-on front view, the camera faces the garment directly at chest height, symmetrical left to right, not turned or angled.`
 - 背面：`Rear view, the camera is directly behind the garment. Only the back of the garment is visible: <按档案填实际有的背面结构，如 back panel / back of the hood / backs of the sleeves / ribbed hem>. Front-only details such as <按档案填：zipper / drawstrings / front pockets / lining> are NOT visible.`
-- 侧面 / 3/4：`Side profile view at 90 degrees` / `Three-quarter view at 45 degrees`，再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
+- 侧面图：`Side profile view at 90 degrees`；3/4 图：`Three-quarter view at 45 degrees`；再加一句按档案填的轮廓特征（如有帽子写 hood silhouette，没有就不写）
 - 括号里只填档案里真实存在的结构，不存在的不写
 - 亚马逊第 2 张（编辑第 1 张加元素）：`Edit the attached image. Keep the garment, its position, size, angle and the white background exactly unchanged. Only add the following elements in the empty corners: …`
 - 编辑实拍图（背面等）：`Edit the attached photo. Keep the garment's shape, angle, fabric texture and every detail exactly unchanged. Only replace the background with pure white (#FFFFFF), even out the lighting to soft studio light, and output a vertical 3:4 image.`
-- 尺码图：`Use the attached front product image exactly as it is, scaled down and placed at the top. Do not redraw or alter the garment. Only add dashed measurement arrows and labels on it, and a size table below.`
+- 尺码图（编辑尺码底图）：`Use the attached front product image exactly as it is. Do not redraw or alter the garment. Add dashed measurement arrows with labels on the garment, a title, and a size table.` 再按版式加一句：
+  - 上下结构：`Place the garment at the top and the size table below.`
+  - 左右结构：`Place the garment on the left and the title and size table on the right.`
+- 尺码底图（③ 和组合装用）：正面视角 + 【商品描述】+ `single garment, invisible ghost mannequin, pure white background, no text`
 - TK 第 2 张（编辑第 1 张去元素）：`Edit the attached image. Remove all added graphics, icons, circles and text. Keep the garment, its position, size and angle exactly unchanged, on a pure white background.`
 
 **【真实感】**
 > Photorealistic commercial product photography shot on a professional DSLR camera, true-to-life colors, natural fabric texture with realistic wrinkles and thickness. No CGI or 3D render look, no plastic or over-smoothed appearance.
 
-3D 立体展示加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
-模特加：`Natural realistic skin texture, normal body proportions, anatomically correct hands and fingers.`
+隐形模特（①②④ 和尺码底图）加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
+模特加：`Natural realistic skin texture, normal body proportions, anatomically correct hands and fingers.` 第一张模特图之后再加上回复里写好的英文模特描述
 
 **【单图】**
 > A single photograph, one frame only. No grid, no collage, no split screen, no multiple panels, no borders.
