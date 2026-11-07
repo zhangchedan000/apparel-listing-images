@@ -8,7 +8,7 @@
 > A men's navy blue hooded jacket. Matte navy outer fabric with evenly spaced short diagonal embossed dashes all over (NOT chevron or V-shaped quilting seams). Cream sherpa lining. Black front zipper, navy drawstrings with silver metal tips, one vertical black zip pocket on each side, navy ribbed cuffs and hem. No logo.
 
 第 1 张附原始上传图时加：
-> Reproduce the garment in the attached photo exactly: same cut, color blocking and contrast panels, trims, pocket shape and position, zippers, zipper tapes and their labels, drawstrings, hardware and ribbing. Do not add, remove, simplify or redesign anything. Only change the background to pure white, even out the lighting, and apply the presentation style described below. If the style would change the garment, keep the garment exact.
+> Copy the DESIGN of the garment in the attached photo exactly: color, color blocking and contrast panels, trims, pocket shape and position, zippers, zipper tapes and their labels, drawstrings, hardware and ribbing. Do not add, remove, simplify or redesign any of these. Do NOT copy the photo's flat shape, wrinkles, draping, lighting or camera angle; re-shape the garment fully in the presentation style described below, on a pure white background.
 
 第 3 张起附主参考图时加：
 > The attached image is the master reference. Keep the garment's appearance, colors, details and presentation style exactly the same. Only change what this image requires (view angle, crop or layout).
@@ -32,7 +32,11 @@
 **【真实感】**
 > Photorealistic commercial product photography shot on a professional DSLR camera, true-to-life colors, natural fabric texture with realistic wrinkles and thickness. No CGI or 3D render look, no plastic or over-smoothed appearance.
 
-隐形模特（①②④ 和尺码底图）加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
+隐形模特（①④ 和尺码底图）加：`Invisible ghost mannequin effect, the garment looks naturally filled out as if worn, no mannequin visible.`
+
+3D 立体（②）加，按品类选一句：
+- 裤子：`3D ghost mannequin product photo. The pants are fully filled out as if worn by an invisible body: round, cylindrical legs with real volume, the waistband opening visible from a slightly elevated angle showing the inside of the waistband, natural vertical folds and soft shadows that follow the body shape. Not a flat lay, not a flat product cutout.`
+- 上衣 / 外套：`3D ghost mannequin product photo. The garment is fully filled out as if worn by an invisible body: rounded chest and shoulders, tube-shaped sleeves, the neckline or hood opening showing its inside, natural folds and soft shadows that follow the body shape. Not a flat lay, not a flat product cutout.`
 模特加：`Natural realistic skin texture, normal body proportions, anatomically correct hands and fingers.` 第一张模特图之后再加上回复里写好的英文模特描述
 
 **【单图】**
