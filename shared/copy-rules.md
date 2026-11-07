@@ -6,6 +6,9 @@
 - **可验证的说法**（材质成分如 100% Cotton、防水 Waterproof、防风、保暖温度、羽绒含量等）**必须用户确认属实才能写**，AI 不能根据图片推测
 - 以利益点为主：`Soft fleece keeps you warm`，少用无法证明的绝对化说法（best、warmest、#1）
 
+## 禁用字眼（两平台通用）
+- 价格、折扣、Sale、Deal、Best Seller、#1、Top Rated、评分星级、Free Shipping 等促销 / 排名字眼一律不写
+
 ## 文字长度
 - 标题 ≤4 个单词，Title Case（如 `Thick Warm Lining`）
 - 说明 ≤12 个单词
