@@ -17,6 +17,7 @@
 - 括号里只填档案里真实存在的结构，不存在的不写
 - 亚马逊第 2 张（编辑第 1 张加元素）：`Edit the attached image. Keep the garment, its position, size, angle and the white background exactly unchanged. Only add the following elements in the empty corners: …`
 - 编辑实拍图（背面等）：`Edit the attached photo. Keep the garment's shape, angle, fabric texture and every detail exactly unchanged. Only replace the background with pure white (#FFFFFF), even out the lighting to soft studio light, and output a vertical 3:4 image.`
+- 尺码图：`Use the attached front product image exactly as it is, scaled down and placed at the top. Do not redraw or alter the garment. Only add dashed measurement arrows and labels on it, and a size table below.`
 - TK 第 2 张（编辑第 1 张去元素）：`Edit the attached image. Remove all added graphics, icons, circles and text. Keep the garment, its position, size and angle exactly unchanged, on a pure white background.`
 
 **【真实感】**

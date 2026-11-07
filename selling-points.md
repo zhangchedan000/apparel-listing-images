@@ -40,8 +40,8 @@
 - 在前三套模板里，差异化体现在**卖点文案**上（第一个卖点写主卖点 + 独有的点）；证据图、对比图只用于"差异化对比"模板
 
 ## 三、措辞
-- **可直接写**：warm、cozy、soft、comfortable、relaxed fit、everyday wear
-- **必须用户确认**：waterproof、windproof、quick dry、lightweight、具体温度、面料成分、克重、anti-pilling、no shrink、machine washable
+- **可直接写**：描述外观、手感、可见结构的词，如 warm、cozy、soft、comfortable、smooth、adjustable、secure、classic、stylish、relaxed fit、everyday wear
+- **必须用户确认**（只有这一类，涉及性能和耐久，写错会被投诉）：waterproof、water-resistant、windproof、quick dry、breathable、lightweight、durable / long-lasting、anti-pilling、no shrink、machine washable、具体温度、面料成分、克重、填充量
 - 防水防风按实际程度：只是泼水 → `Water-Resistant`；有测试数据 → 才写 `Waterproof`；挡风 → `Wind-Resistant`
 - 不写：best、warmest、#1、Best Seller、价格、折扣、Sale、评分
 - 标题 ≤4 个单词、Title Case；说明 ≤12 个单词；日常英文
