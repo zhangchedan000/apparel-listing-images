@@ -7,8 +7,14 @@
 **【商品描述】** 档案里的英文商品描述原样放入，包括图案形状和"不是什么样"，例：
 > A men's navy blue hooded jacket. Matte navy outer fabric with evenly spaced short diagonal embossed dashes all over (NOT chevron or V-shaped quilting seams). Cream sherpa lining. Black front zipper, navy drawstrings with silver metal tips, one vertical black zip pocket on each side, navy ribbed cuffs and hem. No logo.
 
-附了原图时再加：
-> Use the attached photo ONLY to match color, fabric texture and construction details. Do not copy its camera angle or composition.
+第 1 张附原始上传图时加：
+> Use the attached photo ONLY as a reference for color, fabric, construction details and hardware. Do not copy its camera angle, flat-lay or display style; present the garment in the style described below.
+
+第 3 张起附主参考图时加：
+> The attached image is the master reference. Keep the garment's appearance, colors, details and presentation style exactly the same. Only change what this image requires (view angle, crop or layout).
+
+深色商品加：
+> Keep the original brightness and contrast so the fabric texture, seams and folds stay clearly visible; avoid crushed blacks.
 
 **【视角】**
 - 正面：`Straight-on front view, the camera faces the garment directly at chest height, symmetrical left to right, not turned or angled.`
@@ -17,10 +23,10 @@
 - 括号里只填档案里真实存在的结构，不存在的不写
 - 第 2 张，纯白在前时（亚马逊、TK+合规）编辑第 1 张加元素：`Edit the attached image. Keep the garment, its position, size, angle and the white background exactly unchanged. Only add the following elements in the empty corners: …`
 - 编辑实拍图（背面等）：`Edit the attached photo. Keep the garment's shape, angle, fabric texture and every detail exactly unchanged. Only replace the background with pure white (#FFFFFF), even out the lighting to soft studio light, and output a vertical 3:4 image.`
-- 尺码图（编辑尺码底图）：`Use the attached front product image exactly as it is. Do not redraw or alter the garment. Add dashed measurement arrows with labels on the garment, a title, and a size table.` 再按版式加一句：
+- 尺码图（编辑主参考图或底图）：`Use the attached front product image exactly as it is. Do not redraw or alter the garment. Add dashed measurement arrows with labels on the garment, a title, and a size table.` 再按版式加一句：
   - 上下结构：`Place the garment at the top and the size table below.`
   - 左右结构：`Place the garment on the left and the title and size table on the right.`
-- 尺码底图（③ 和组合装用）：正面视角 + 【商品描述】+ `single garment, invisible ghost mannequin, pure white background, no text`
+- ③ 的尺码底图：附主参考图，`The same garment as in the attached image, shown alone on an invisible ghost mannequin, straight-on front view, pure white background, no person, no text.`
 - 第 2 张，加元素在前时（TK）编辑第 1 张去元素：`Edit the attached image. Remove all added graphics, icons, circles and text. Keep the garment, its position, size and angle exactly unchanged, on a pure white background.`
 
 **【真实感】**
