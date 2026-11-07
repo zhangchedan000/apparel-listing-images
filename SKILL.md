@@ -28,7 +28,7 @@ description: 服装商品套图生成。用户说"平台 + 模板名"（如"TK�
 | 3D立体展示 / 3D立体展示模版 / 3D款 | `templates/3d-display.md` |
 | 真人模特展示 / 模特款 | `templates/model-showcase.md` |
 | 加字 | 细节图加英文短标签（见 `shared/copy-rules.md`） |
-| 对比图 | 加一张"普通款 vs 我们"对比图（见 `shared/differentiation.md`），亚马逊默认不做 |
+| 对比图 | TK：加一张"普通款 vs 我们"对比图；亚马逊：改做结构分层图或数据证据图（见 `shared/differentiation.md`） |
 | 组合装 + 颜色（如"组合装 黑+灰+蓝"） | 按 `shared/combo-pack.md` 改前两张 |
 | `TK SKU <颜色>` | 只出 1 张 SKU 预览图（见第四节） |
 
