@@ -23,6 +23,10 @@
 - 3/4：`Three-quarter view at 45 degrees.`
 
 **每张都加**：
-`Photorealistic commercial product photography, true-to-life colors, natural fabric texture, no CGI or plastic look. A single image, no grid, no collage. Vertical 3:4, highest resolution.`
+`Photorealistic commercial product photography, true-to-life colors, natural fabric texture, no CGI or plastic look. This is a real product photo taken in one single camera shot; the frame is one continuous scene from edge to edge. Highest resolution.`
+
+**画幅**：TK 加 `Square 1:1 format.`；亚马逊加 `Vertical 3:4 format.`
+
+提示词只写想要的画面，不写 grid、collage 这类描述画面布局的否定词（会让模型往拼图方向联想）
 
 **深色商品加**：`Keep the fabric texture and folds clearly visible; no crushed blacks.`
