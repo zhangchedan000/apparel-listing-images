@@ -25,3 +25,10 @@ selling-points.md   卖点、差异化、措辞
 extras.md           尺码图、组合装、多颜色、模特
 prompts.md          英文提示词要点
 ```
+
+## TK 美区最新版 Skill
+
+新增独立 [tk-apparel-visuals](tk-apparel-visuals/SKILL.md) 子技能，按用户在2026-11确认的2–3张卖点图、原实拍细节优先、真人不露脸、组合装、真实拉链开口、图片转尺寸与换背景等规则执行。亚马逊老工作流保留。
+
+- 最新可安装ZIP：GitHub Releases 标签 `skill-latest` 的 `skill.zip`（每次main更新覆盖旧资产）
+- 每日增量：由 ChatGPT 的定时自动任务检查已确认反馈后提交，不靠GitHub Action自动理解聊天；Action只自动重打包已提交的规则。
