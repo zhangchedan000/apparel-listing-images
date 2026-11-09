@@ -12,14 +12,33 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 **图 1：卖点图标底图**
 - 画面只有：商品 + 一列卖点小图标 + 每个图标旁的简短英文
 - 背景以纯色为主，颜色按商品选，不和商品撞色（如黑色商品配浅灰、米白）
-- 小图标：通常 3 个，每个对应一个卖点；圆形底 + 简洁线条图标，大小统一，竖排一列放在画面一侧，对齐整齐，不压商品
-- 文案：每个 1–2 个英文词，粗体、清晰易读
+- 小图标是**点缀**，要有高级感、吸引眼球，但不抢商品（见下方"卖点小图标标准"）
 - **不做**：顶部大标题、温度大字、印章圆标、火焰等装饰（用户自己加）；给用户后期加字留出空间
 
 **图 2：反差图**
 - 用一个和核心卖点相反的场景做背景，制造冲击力：保暖 → 火焰 / 暖色，凉感 → 冰块 / 冷色，防水 → 水花，轻薄 → 羽毛……由你根据商品自己设计
 - 画面以商品为主，卖点部位要看得到（如翻折露出绒里），文字极少或不放
 - **先出方案，用户选定后再做**
+
+## 卖点小图标标准
+**卖点提炼**
+- 从买家为什么买出发，选这件商品最有说服力的 3 个（最多 4 个），按重要程度从上到下排
+- 每个图标讲一个不同的好处，不重复（如 COMFORTABLE 和 SOFT 只留一个）
+- 优先写买家能感受到的好处：KEEP WARM、LOCK TEMPERATURE、WINDPROOF、SKIN-FRIENDLY、WEAR-RESISTANT、LIGHTWEIGHT…；必须和商品真实情况对得上
+
+**图标样式（高级感）**
+- 一整组同一种风格：单色扁平线条图标，统一线宽、统一圆角；常用两种——黑色实心圆底 + 白色线条图形，或无底的黑色线条图形。深色背景改用白色
+- 不用彩色渐变、3D、卡通、写实小图片、emoji
+- 图形和卖点一一对应、一眼看懂：保暖 → 火苗 / 带箭头的温度计；锁温 → 温度计 + 环形箭头；防风 → 被挡开的风线；亲肤 / 柔软 → 树叶 / 羽毛；耐磨 → 盾牌；轻便 → 羽毛；弹力 → 双向拉伸箭头
+
+**文字**
+- 放在图标正下方，居中；全大写无衬线小字，1–3 个词，字距略宽
+- 拼写逐字检查（参考图里出现过 COMFORTAPLE、TEMPERATUNE 这种错字）
+
+**大小和位置**
+- 图标直径约为画面宽度的 8–10%，整组宽度不超过画面的 1/5；像点缀，不是主角
+- 默认竖排在左上角，间距相等、中线对齐；商品摆放避开这一列
+- 商品仍占画面主要面积
 
 ## 必须遵守的规则
 1. **原图只用来确认商品**：颜色、款式、结构、口袋、拉链和拉头、织带上的字、抽绳、罗纹、绒里、面料纹理都和原图一致，不改、不少、不换成"常见款"
@@ -42,8 +61,8 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 图 1 卖点图标底图
 - 背景色：…
 - 商品摆放：…
-- 图标（从上到下）：① <图标画什么> + <英文> ② … ③ …
-- 图标位置：画面左侧 / 右侧
+- 图标（从上到下）：① <卖点> —— <图标画什么> —— <英文> ② … ③ …
+- 图标样式：黑底白线 / 黑色线条（深色背景用白色）；位置：左上角
 
 图 2 反差图（给 2–3 个方案让用户选）
 - 方案 A：<背景场景> —— <为什么和卖点形成反差> —— <商品怎么摆、露出什么>
@@ -61,6 +80,6 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 **4. 做完**：输出"本次经验总结（只列和经验库相比的变化）"，用户确认后能写 GitHub 就增量更新仓库 `zhangchedan000/apparel-listing-images` 的 `lessons.md`（加到"营销主图"分类，没有就新建），只改这个文件
 
 ## 英文提示词要点
-- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and centered. On the <left> side, a neat vertical column of <3> small round icons, each with a simple line icon and a short bold English label: "<…>", "<…>", "<…>". Uniform size and spacing. No other text, no decorations. Vertical 3:4 format.`
+- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and centered. In the top-left corner, a neat vertical column of <3> small, elegant monochrome icons: black solid circles with white minimal line symbols, uniform stroke and size, each about 9% of the image width. Under each icon, a short uppercase sans-serif label in small letter-spaced type: "<…>" (<symbol>), "<…>" (<symbol>), "<…>" (<symbol>). The icons are subtle accents; the garment stays dominant. No other text, no decorations. Vertical 3:4 format.`
 - 图 2：`<scene> background creating a strong contrast with the garment's <selling point>. The garment <placement>, <selling-point part> clearly visible. Minimal or no text. Vertical 3:4 format.`
 - 每张都加：`Keep the product design exactly the same as the reference, every part in its true proportion and position. Photorealistic product, true-to-life colors, natural fabric texture. One single continuous image.`
