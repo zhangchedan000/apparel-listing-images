@@ -22,7 +22,7 @@
 
 **风格**
 - 白底隐形模特：`Invisible ghost mannequin product photo, pure white background.`
-- 3D 立体：`3D ghost mannequin photo, straight front view, the main zipper closed to the collar. The garment is naturally filled as if worn by an invisible body: rounded shoulders, both sleeves evenly filled from shoulder to cuff, smooth fabric on the chest, back and sleeves, with only a few soft natural folds at the armpits, elbows and cuffs. Real fabric texture.`
+- 3D 立体：`3D ghost mannequin photo, straight front view, the main zipper closed to the collar. The garment is naturally filled as if worn by an invisible body: rounded shoulders, both sleeves evenly filled from shoulder to cuff, smooth fabric on the chest, back and sleeves, with only a few soft natural folds at the armpits, elbows and cuffs. Real fabric texture.` 再加上口袋和拉链：`<X> zip pockets: one on the left side and one on the right side of the front, identical in size, height and zipper pull. The main zipper is fully closed up to the collar.`（按档案里确认的口袋数量和样子写）
 - 真人模特：`A real American model actually wearing the garment, framed from the neck down (face not shown), arms relaxed at the sides. The garment fits and drapes naturally like a real fashion photo, not pasted on.`（裤子改成 `framed from the waist to the shoes`）
 
 **视角**
