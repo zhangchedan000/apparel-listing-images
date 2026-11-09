@@ -26,3 +26,6 @@ prompts.md          英文提示词要点
 - ChatGPT 项目：项目设置里填项目指令，「来源」里上传合并后的规则文件和经验库
 - 插件：Releases `skill-latest` 里的 `apparel-listing-images-plugin.zip`（每次 main 更新自动重打包）
 - 自动任务只能增量更新 `lessons.md`，且只写用户确认过的经验
+
+## 另一个项目：营销主图底图（icon-main/）
+卖点小图标底图 + 反差图，纯色背景为主；单独一个 ChatGPT 项目使用，经验库和主项目共用 lessons.md。
