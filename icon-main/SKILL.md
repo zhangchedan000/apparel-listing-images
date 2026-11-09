@@ -47,8 +47,11 @@ description: 服装营销主图底图（卖点小图标主图 或 反差图，�
 - 拼写逐字检查（出现过 COMFORTAPLE、TEMPERATUNE 这种错字）
 
 **大小和位置**
-- 像点缀，不是主角：单个图标约为画面宽度的 8–10%，整组不超过画面的 1/5
-- 位置和排法由你设计（常见做法是左上角竖排）；商品仍占画面主要面积
+- 像点缀，不是主角：单个图标直径约为画面宽度的 **6–7%**（1800 宽的图约 110–130 px），文字字高约为图标的 1/4；整组宽度不超过画面的 **12%**
+- **对齐**：所有图标同样大小，圆心在**同一条竖线**上，文字在各自图标下方居中，图标之间间距相等
+- **完整**：整组离画面边缘至少留画面宽度的 5%，图标外圈是完整闭合的圆，不能被画面边缘或商品切掉、遮住
+- 位置和排法由你设计（常见做法是左上角竖排）；商品仍占画面主要面积，和图标之间留出空隙
+- 生成后图标偏大、没对齐或外圈不完整时，用编辑只改图标这一列（框选），商品不动
 
 ## 必须遵守的规则
 1. **原图只用来确认商品**：颜色、款式、结构、口袋、拉链和拉头、织带上的字、抽绳、罗纹、绒里、面料纹理都和原图一致，不改、不少、不换成"常见款"
@@ -91,7 +94,7 @@ description: 服装营销主图底图（卖点小图标主图 或 反差图，�
 **4. 结束**：图做完流程就结束。最后提一句"需要加颜色色块的话，告诉我颜色和顺序，再发一张颜色参考图"，并输出"本次经验总结（只列和经验库相比的变化）"；用户确认后能写 GitHub 就增量更新仓库 `zhangchedan000/apparel-listing-images` 的 `lessons.md`（加到"营销主图"分类，没有就新建），只改这个文件
 
 ## 英文提示词要点
-- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and dominant. <Icon layout you designed, e.g. In the top-left corner, a neat vertical column of 3 small elegant icons>: <icon style and colors you chose> with minimal line symbols, uniform stroke and size, each about 9% of the image width, with short uppercase sans-serif labels: "<…>" (<symbol>), "<…>" (<symbol>), "<…>" (<symbol>). The icons are subtle accents. No other text, no decorations. Vertical 3:4 format.`
+- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and dominant. <Icon layout you designed, e.g. In the top-left corner, a neat vertical column of 3 small elegant icons>: <icon style and colors you chose> with minimal line symbols, all exactly the same size, each about 6.5% of the image width, their centers on one straight vertical line, equal spacing, each icon a complete closed circle fully inside the frame with a margin of at least 5% from the edges and not overlapping the garment, with small short uppercase sans-serif labels centered under each icon: "<…>" (<symbol>), "<…>" (<symbol>), "<…>" (<symbol>). The icons are subtle accents. No other text, no decorations. Vertical 3:4 format.`
 - 图 2：`<scene> background creating a strong contrast with the garment's <selling point>. The garment <placement>, <selling-point part> clearly visible. Minimal or no text. Vertical 3:4 format.`
 - 色块：`Edit the attached image. Keep the garment and the icons exactly unchanged. Add <N> color swatches in this order: <颜色 1>, <颜色 2>, … matching the colors in the second attached photo, <shape and position you designed>, <optional label>.`
 - 每张都加：`Keep the product design exactly the same as the reference, every part in its true proportion and position. Photorealistic product, true-to-life colors, natural fabric texture. One single continuous image.`
