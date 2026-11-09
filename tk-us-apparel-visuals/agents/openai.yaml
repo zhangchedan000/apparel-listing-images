@@ -1,0 +1,4 @@
+interface:
+  display_name: "TK 美区服装商品视觉"
+  short_description: "资深跨境电商美工；真实细节；综合卖点三张逐张做"
+  default_prompt: "请先分析这款TK美区服装原图，锁定细节；沿用我已选的类型，先制定清单，确认后逐张制作。"

@@ -1,4 +1,4 @@
-name: Publish Latest Apparel Plugin
+name: Publish Latest Apparel Plugin and TK Skill
 on:
   push:
     branches: [main]
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build plugin ZIP
+      - name: Build existing apparel plugin ZIP
         run: |
           test -f .codex-plugin/plugin.json
           rm -rf build dist && mkdir -p build/plugin/skills/apparel-listing-images dist
@@ -18,10 +18,20 @@ jobs:
           cp *.md build/plugin/skills/apparel-listing-images/
           (cd build/plugin && zip -qr ../../dist/apparel-listing-images-plugin.zip .)
           unzip -l dist/apparel-listing-images-plugin.zip | grep -q 'skills/apparel-listing-images/SKILL.md'
+      - name: Build standalone TK US skill.zip
+        run: |
+          test -f tk-us-apparel-visuals/SKILL.md
+          test -f tk-us-apparel-visuals/agents/openai.yaml
+          mkdir -p build/tk-skill/tk-us-apparel-visuals/references
+          cp tk-us-apparel-visuals/SKILL.md build/tk-skill/tk-us-apparel-visuals/
+          cp -r tk-us-apparel-visuals/agents build/tk-skill/tk-us-apparel-visuals/
+          cp lessons.md templates.md platforms.md selling-points.md extras.md prompts.md build/tk-skill/tk-us-apparel-visuals/references/
+          (cd build/tk-skill && zip -qr ../../dist/skill.zip tk-us-apparel-visuals)
+          unzip -l dist/skill.zip | grep -q 'tk-us-apparel-visuals/SKILL.md'
+          unzip -l dist/skill.zip | grep -q 'tk-us-apparel-visuals/references/lessons.md'
       - name: Update latest release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release view skill-latest >/dev/null 2>&1 || gh release create skill-latest -t "Apparel Listing Images · Latest" -n "Latest plugin zip, rebuilt on every main update."
-          gh release upload skill-latest dist/apparel-listing-images-plugin.zip --clobber
-          gh release delete-asset skill-latest skill.zip -y || true
+          gh release view skill-latest >/dev/null 2>&1 || gh release create skill-latest -t "Apparel Listing Images · Latest" -n "Latest plugin ZIP and standalone TK skill.zip, rebuilt on every main update."
+          gh release upload skill-latest dist/apparel-listing-images-plugin.zip dist/skill.zip --clobber
