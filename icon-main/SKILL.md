@@ -28,9 +28,9 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 
 **图标样式（高级感）**
 - 一整组同一种风格：扁平线条图标，统一线宽、统一圆角
-- **颜色由你按商品设计**：先看商品本身的配色（主色 + 点缀色，如黑色外套 + 驼色绒里），从中取**一个**颜色做整组图标的底色，图形用白色；或者整组用黑色 / 深灰这类中性色。和背景要有足够对比，和商品要协调
-- **整组只用一个颜色**，不能每个图标一个颜色；不用发灰发脏、和商品无关的颜色
-- 在方案里写明图标用什么颜色、为什么（如"取绒里的驼色，呼应保暖卖点"），用户确认后再出图
+- **配色由你分析商品后自己设计**：看商品的主色、点缀色（如黑色外套 + 驼色绒里）和背景，搭配出和商品协调、有高级感的图标颜色；可以整组一个颜色，也可以用同一色系里几个相近的颜色，由你判断哪种更好看
+- 不用和商品无关、刺眼或廉价的颜色；图标和背景要有足够对比
+- 在方案里写明图标配色和理由（如"取绒里的驼色和外套的深灰，呼应保暖"），用户确认后再出图
 - 不用彩色渐变、3D、卡通、写实小图片、emoji
 - 图形和卖点一一对应、一眼看懂：保暖 → 火苗 / 带箭头的温度计；锁温 → 温度计 + 环形箭头；防风 → 被挡开的风线；亲肤 / 柔软 → 树叶 / 羽毛；耐磨 → 盾牌；轻便 → 羽毛；弹力 → 双向拉伸箭头
 
@@ -65,7 +65,7 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 - 背景色：…
 - 商品摆放：…
 - 图标（从上到下）：① <卖点> —— <图标画什么> —— <英文> ② … ③ …
-- 图标颜色：<一个颜色> —— <取自商品哪里、为什么>；位置：左上角
+- 图标配色：<颜色> —— <和商品怎么搭配、为什么>；位置：左上角
 
 图 2 反差图（给 2–3 个方案让用户选）
 - 方案 A：<背景场景> —— <为什么和卖点形成反差> —— <商品怎么摆、露出什么>
@@ -83,6 +83,6 @@ description: 服装营销主图底图（卖点小图标主图 + 反差图）。�
 **4. 做完**：输出"本次经验总结（只列和经验库相比的变化）"，用户确认后能写 GitHub 就增量更新仓库 `zhangchedan000/apparel-listing-images` 的 `lessons.md`（加到"营销主图"分类，没有就新建），只改这个文件
 
 ## 英文提示词要点
-- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and centered. In the top-left corner, a neat vertical column of <3> small, elegant monochrome icons: <one color> solid circles with white minimal line symbols, all icons in exactly the same color, uniform stroke and size, each about 9% of the image width. Under each icon, a short uppercase sans-serif label in small letter-spaced type: "<…>" (<symbol>), "<…>" (<symbol>), "<…>" (<symbol>). The icons are subtle accents; the garment stays dominant. No other text, no decorations. Vertical 3:4 format.`
+- 图 1：`Clean e-commerce main image on a solid <color> background. The garment <placement as in the reference>, large and centered. In the top-left corner, a neat vertical column of <3> small, elegant monochrome icons: solid circles in <colors chosen to match the garment> with white minimal line symbols, uniform stroke and size, each about 9% of the image width. Under each icon, a short uppercase sans-serif label in small letter-spaced type: "<…>" (<symbol>), "<…>" (<symbol>), "<…>" (<symbol>). The icons are subtle accents; the garment stays dominant. No other text, no decorations. Vertical 3:4 format.`
 - 图 2：`<scene> background creating a strong contrast with the garment's <selling point>. The garment <placement>, <selling-point part> clearly visible. Minimal or no text. Vertical 3:4 format.`
 - 每张都加：`Keep the product design exactly the same as the reference, every part in its true proportion and position. Photorealistic product, true-to-life colors, natural fabric texture. One single continuous image.`
