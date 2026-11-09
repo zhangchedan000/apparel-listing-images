@@ -11,6 +11,13 @@
 **加附细节图时**（做某个部位）：
 `The second attached photo is a close-up of the <part>. Use it only to get this part exactly right; keep everything else, the style and the composition based on the master reference.`
 
+**编辑第 1 张**（加元素图、卖点图、尺码图）：`Edit the attached image. Keep the garment exactly as it is, pixel for pixel; do not redraw it. Only add: …`
+- 卖点图 B 需要空间时：`Extend the canvas to the right with the same white background and place the detail cards there; the garment stays unchanged.`
+
+**局部修改**（配合框选）：`Only change <编号 + 位置，如 the main zipper pull at the center of the chest> inside the selected area, to match the attached close-up. Keep <其他五金，如 the two side pocket zipper pulls> and everything else exactly unchanged.`
+
+**插兜**（在认可的垂手图上编辑）：`Edit the attached image. Move only the <right> hand into the <right front slanted pocket>; the pocket opening runs <diagonally from the waist down toward the side seam>. The hand goes inside the pocket, only the thumb visible, the fabric slightly stretched by the hand. Keep the garment, the model and everything else unchanged.`
+
 **第 2 张**（编辑第 1 张）：`Edit the attached image. Keep the garment, position, size and angle unchanged. Only add these selling-point elements: …`
 
 **风格**
