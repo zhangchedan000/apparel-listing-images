@@ -3,7 +3,7 @@
 每条生图提示词 = 本张画面 + 英文商品描述 + 下面需要的句子，用通顺的英文写。
 
 **第 1 张**（附用户参考图）：
-`Use the attached photo as the product reference and create this image in the style described below. Keep the product design exactly the same, but do not copy the photo's flat shape, wrinkles or angle.`
+`Use the attached photo only to identify the product, and create a new image in the style described below. Keep the product design exactly the same, with every part in its true proportion and position. Do not copy the photo's pose, placement, flat shape, wrinkles or angle.`
 
 **第 2 张起**（附主参考图）：
 `The attached image is the master reference. Keep the garment, colors, details and style exactly the same; only change what this image needs (angle, crop or layout).`
@@ -15,8 +15,8 @@
 
 **风格**
 - 白底隐形模特：`Invisible ghost mannequin product photo, pure white background.`
-- 3D 立体：`3D ghost mannequin photo, front view, the garment looks full and rounded as if worn by an invisible body. Not a flat lay.`
-- 真人模特：`A real American model actually wearing the garment, it fits and drapes naturally like a real fashion photo, not pasted on.`
+- 3D 立体：`3D ghost mannequin photo, straight front view, the main zipper closed to the collar. The garment is naturally filled as if worn by an invisible body: rounded shoulders, both sleeves evenly filled from shoulder to cuff, smooth fabric on the chest, back and sleeves, with only a few soft natural folds at the armpits, elbows and cuffs. Real fabric texture.`
+- 真人模特：`A real American model actually wearing the garment, framed from the neck down (face not shown), arms relaxed at the sides. The garment fits and drapes naturally like a real fashion photo, not pasted on.`（裤子改成 `framed from the waist to the shoes`）
 
 **视角**
 - 背面：`Rear view; only the back of the garment is visible, no front-only details.`
@@ -28,5 +28,7 @@
 **画幅**：TK 和亚马逊都加 `Vertical 3:4 format.`
 
 提示词只写想要的画面，不写 grid、collage 这类描述画面布局的否定词（会让模型往拼图方向联想）
+
+**每张都写清关键部件**：从细节锁定表里把这张会出现的拉头、口袋、Logo 等写具体（形状、颜色、大小、位置），不要只写 "black zipper pull"
 
 **深色商品加**：`Keep the fabric texture and folds clearly visible; no crushed blacks.`
