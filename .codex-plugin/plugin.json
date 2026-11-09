@@ -1,0 +1,31 @@
+{
+  "name": "apparel-listing-images",
+  "version": "6.0.0",
+  "description": "服装商品套图生成：TK美区（含 TK 专项规则）/ 亚马逊美国站，四套模板，含组合装、SKU 图、尺码图",
+  "author": {
+    "name": "zhangchedan000",
+    "url": "https://github.com/zhangchedan000"
+  },
+  "homepage": "https://github.com/zhangchedan000/apparel-listing-images",
+  "repository": "https://github.com/zhangchedan000/apparel-listing-images",
+  "license": "MIT",
+  "keywords": [
+    "apparel",
+    "amazon",
+    "tiktok-shop",
+    "product-images",
+    "listing"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "服装商品套图",
+    "shortDescription": "按平台和模板生成服装商品主图、细节图、SKU 图和尺码图",
+    "longDescription": "美区电商资深商品视觉设计总监：为 TikTok Shop 美区和亚马逊美国站策划、设计并 AI 生成服装商品套图。指令：平台 + 模板名（如“TK美区 3D立体展示”）。四套模板：白底卖点图解、3D立体展示、真人模特展示、差异化对比（测试中）；支持组合装、多颜色 SKU、尺码图。",
+    "developerName": "zhangchedan000",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ]
+  }
+}

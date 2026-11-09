@@ -30,5 +30,6 @@ prompts.md          英文提示词要点
 
 新增独立 [tk-apparel-visuals](tk-apparel-visuals/SKILL.md) 子技能，按用户在2026-11确认的2–3张卖点图、原实拍细节优先、真人不露脸、组合装、真实拉链开口、图片转尺寸与换背景等规则执行。亚马逊老工作流保留。
 
-- 最新可安装ZIP：GitHub Releases 标签 `skill-latest` 的 `skill.zip`（每次main更新覆盖旧资产）
+- **ChatGPT 插件安装用**：Releases 标签 `skill-latest` 的 `apparel-listing-images-plugin.zip`（设置 → 插件 → 上传插件压缩包；含主技能和 TK 专项规则）
+- `skill.zip` 只有 TK 子技能文件夹，没有插件清单，不能当插件上传
 - 每日增量：由 ChatGPT 的定时自动任务检查已确认反馈后提交，不靠GitHub Action自动理解聊天；Action只自动重打包已提交的规则。
